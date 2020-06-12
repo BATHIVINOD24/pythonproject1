@@ -1,7 +1,4 @@
-x = "awesome"
-def myfunc():
-    global x
-    x = "fantastic"
-myfunc()
-
-print("python is " + x)
+x=15
+y=10
+if x>y:
+    print("Five is greater than two!")
